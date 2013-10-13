@@ -1,0 +1,3 @@
+from pytesser import *
+image = Image.open('test.jpg')
+print image_to_string(image)
