@@ -9,3 +9,7 @@ the user brought to the computer.
 So far, it captures an image of the white board and does OCR on the handwritten numbers to try to figure 
 out what they are to do the calculations. This code isn't real pretty and there's still a lot of work that 
 needs to be done.
+
+Usage:
+======
+Run interact.m in Matlab.
